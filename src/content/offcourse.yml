@@ -16,27 +16,9 @@ presenter:
 - name: Greg Rodriguez Varias
 
 slides:
-- title: Introduction
-  type: section-title
-  
-- type: normal
-  content:
-
-    + Jan Hein Hoogstad - CEO
-
-    + Donald Roos - UI/UIX
-
-    + Charlotte van Oostrum - Content Strategist
-
-    + Sander Reukema - Business Development
-
-    + Robert-Jan Korteschiel - Developer
-
-    + Greg Rodriguez Varias – Developer
-
 - title: Learn by Dwelling
   type: section-title
-  
+
 - type: normal
   content:
 
@@ -108,9 +90,15 @@ slides:
     + We are self taught developers building this tool for
       self taught developers. We know the struggle.
 
+- type: normal
+  content: 
+
     + We have years of experience building and using
       our own digital tools for learning.
- 
+
+- type: normal
+  content: 
+
     + We are educators AND developers.
       Whenever we see a problem, we build the solution
       ourselves. That’s why we will keep our unfair
@@ -136,10 +124,16 @@ slides:
     -Personal portfolio
     -Track progress and get suggestions
 
+- type: normal
+  content: 
+
     + Recruitment
     -High-quality and detailed profiles
     -Matching
- 
+
+- type: normal
+  content: 
+
     + Business integration
     -Custom platform
     -In-company learning
