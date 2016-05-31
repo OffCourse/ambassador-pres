@@ -5,8 +5,8 @@ function createSlideshow(data){
   let thesis = createThesis(data);
   let backCover = createBackCover(data);
   let program = createProgram(data.slides);
-  let temp = R.concat([cover, thesis, program], data.slides);
-  let slideShow = R.concat(temp, [thesis, backCover]);
+  let temp = R.concat([cover, program], data.slides);
+  let slideShow = R.concat(temp, [backCover]);
   data.slides = createSlides(slideShow);
   return data;
 }

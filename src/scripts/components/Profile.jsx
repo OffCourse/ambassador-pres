@@ -6,9 +6,7 @@ class Profile extends React.Component {
   render(){
     let { presenter } = this.props;
     let profileData = R.values(presenter);
-    console.log("profiledata:", profileData)
     let createProfile = R.mapIndexed((value, index) => {
-      console.log(value)
       return <li key={ index }><p>{ value }</p></li>;
     });
     return (
