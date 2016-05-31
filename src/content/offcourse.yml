@@ -1,14 +1,19 @@
 title: Offcourse_
-url: http://offcourse.codingthehumanities.com
+url: http://offcourse.io
 event: 
-  organizer: University of Amsterdam
-  date: 27-05-2015
+  organizer: Some Place In Rotterdam
+  date: 01-06-2016
 
 presenter:
   name: 
     - Jan Hein Hoogstad
-    - Reika Egawa-Chavers
-  twitter: '@yeehaa'
+    - Donald Roos
+    - Charlotte van Oostrum
+    - Sander Reukema
+    - Robert-Jan Korteschiel
+    - Greg Rodriguez Varias
+    
+  twitter: '@offcourse_'
 
 slides:
 - title: Introduction
