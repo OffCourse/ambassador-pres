@@ -1,0 +1,115 @@
+title: Offcourse_
+url: http://offcourse.codingthehumanities.com
+event: 
+  organizer: University of Amsterdam
+  date: 27-05-2015
+
+presenter:
+  name: 
+    - Jan Hein Hoogstad
+    - Reika Egawa-Chavers
+  twitter: '@yeehaa'
+
+slides:
+
+- title: Start
+  type: section-title
+
+- type: normal
+  content:
+
+    + Jan Hein Hoogstad
+
+    + Reika Egawa-Chavers
+
+- title: Learn by Dwelling
+  type: section-title
+  
+-  type: normal
+   content:
+
+    + When I Was 10 Years Old ...
+
+- type: normal
+  content:
+    
+    + We Go To School To Learn From Teachers
+
+    + But we Learn Best From Teaching
+
+- type: normal
+  content:
+
+    + A Space To Learn By Teaching
+
+- type: normal
+  content:
+
+    + Curating Lists Of Links
+
+    + Change Existing Cards
+    
+    + Make Your Own Versions
+
+    + Arrange And Rearrange Cards In Sets
+
+- type: normal
+  content:
+
+    + A Tiny Bit Of Structure
+
+    + A Whole Lot Of Learning
+
+- type: normal
+  content:
+
+    + Tools To Explore Learning 
+
+    + Learn By Dwelling 
+
+- title: Walkthrough
+  type: section-title
+  
+-  type: normal
+   content: 
+
+    + Imagine...
+
+- title: The Future
+  type: section-title
+  
+-  type: normal
+   content: 
+
+    + Curation 
+
+    + Git Model 
+ 
+    + Mobile App
+
+- title: Playground
+  type: section-title
+  
+-  type: normal
+   content: 
+
+    + Browse
+
+- title: The End
+  type: section-title
+
+- type: normal
+  title: Contact
+  content: 
+
+    + [offcourse.io](http://unacademic.github.io/unacademic-nightly/) 
+
+    + Jan Hein Hoogstad
+    
+    + Marijn Koolen 
+    
+    + Reika Egawa-Chavers
+    
+    + Charlotte van Oostrum 
+
+    + Greg Varias

@@ -11,22 +11,29 @@ presenter:
   twitter: '@yeehaa'
 
 slides:
-
-- title: Start
+- title: Introduction
   type: section-title
-
+  
 - type: normal
   content:
 
-    + Jan Hein Hoogstad
+    + Jan Hein Hoogstad - CEO
 
-    + Reika Egawa-Chavers
+    + Donald Roos - UI/UIX
+
+    + Charlotte van Oostrum - Content Strategist
+
+    + Sander Reukema - Business Development
+
+    + Robert-Jan Korteschiel - Developer
+
+    + Greg Rodriguez Varias – Developer
 
 - title: Learn by Dwelling
   type: section-title
   
--  type: normal
-   content:
+- type: normal
+  content:
 
     + When I Was 10 Years Old ...
 
@@ -70,16 +77,16 @@ slides:
 - title: Walkthrough
   type: section-title
   
--  type: normal
-   content: 
+- type: normal
+  content: 
 
     + Imagine...
 
 - title: The Future
   type: section-title
   
--  type: normal
-   content: 
+- type: normal
+  content: 
 
     + Curation 
 
@@ -87,29 +94,87 @@ slides:
  
     + Mobile App
 
-- title: Playground
+- title: Why?
   type: section-title
   
--  type: normal
-   content: 
-
-    + Browse
-
-- title: The End
-  type: section-title
-
 - type: normal
-  title: Contact
   content: 
 
-    + [offcourse.io](http://unacademic.github.io/unacademic-nightly/) 
+    + We are self taught developers building this tool for
+      self taught developers. We know the struggle.
 
-    + Jan Hein Hoogstad
-    
-    + Marijn Koolen 
-    
-    + Reika Egawa-Chavers
-    
-    + Charlotte van Oostrum 
+    + We have years of experience building and using
+      our own digital tools for learning.
+ 
+    + We are educators AND developers.
+      Whenever we see a problem, we build the solution
+      ourselves. That’s why we will keep our unfair
+      advantage.
 
-    + Greg Varias
+- title: Today
+  type: section-title
+  
+- type: normal
+  content:
+
+    + Problems with existing solutions
+    <!-- current solutions and why do they fail?-->
+
+- title: Opportunity
+  type: section-title
+  
+- type: normal
+  content:
+
+    + Open-source platform
+    -Community
+    -Personal portfolio
+    -Track progress and get suggestions
+
+    + Recruitment
+    -High-quality and detailed profiles
+    -Matching
+ 
+    + Business integration
+    -Custom platform
+    -In-company learning
+    -Track and assess the progress of every team member
+
+- title: Market
+  type: section-title
+  
+- type: normal
+  content: 
+
+    + Coding bootcamps
+
+    2016   16.000
+    2017   50.000
+
+    <!-- insert picture "tuition fees"-->
+
+- title: Competition
+  type: section-title
+  
+- type: normal
+  content: 
+
+    <!-- insert table "we can, it can't"-->
+
+- title: Current status
+  type: section-title
+  
+- type: normal
+  content:
+
+    + Platform prototype 
+
+    + Making, curating, sharing lists
+
+- title: Workshop
+  type: section-title
+  
+- type: normal
+  content: 
+
+    + Example
