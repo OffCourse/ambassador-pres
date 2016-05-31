@@ -5,14 +5,15 @@ event:
   date: 01-06-2016
 
 presenter:
-  name: 
-    - Jan Hein Hoogstad
-    - Donald Roos
-    - Charlotte van Oostrum
-    - Sander Reukema
-    - Robert-Jan Korteschiel
-    - Greg Rodriguez Varias
+- name: Jan Hein Hoogstad
   twitter: '@offcourse_'
+- name: Donald Roos
+  twitter: '@bureaudonald'
+- name: Charlotte van Oostrum
+  twitter: '@cevoostrum'
+- name: Sander Reukema
+- name: Robert-Jan Korteschiel
+- name: Greg Rodriguez Varias
 
 slides:
 - title: Introduction

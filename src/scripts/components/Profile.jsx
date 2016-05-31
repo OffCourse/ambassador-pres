@@ -6,13 +6,14 @@ class Profile extends React.Component {
   render(){
     let { presenter } = this.props;
     let profileData = R.values(presenter);
-    let createProfile = R.mapIndexed((value, index) => (
-      <li key={ index }><p>{ value }</p></li>
-    ));
-    let profile = createProfile(profileData);
+    console.log("profiledata:", profileData)
+    let createProfile = R.mapIndexed((value, index) => {
+      console.log(value)
+      return <li key={ index }><p>{ value }</p></li>;
+    });
     return (
       <ul className="profile">
-        { profile }
+        { createProfile(profileData) }
       </ul>
     )
   }
@@ -20,6 +21,5 @@ class Profile extends React.Component {
 Profile.propTypes = {
   presenter: React.PropTypes.object.isRequired
 }
-
 
 export default Profile;

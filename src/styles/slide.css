@@ -63,6 +63,7 @@ component(slide){
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    align-items: flex-start;
   }
 
   li {
@@ -97,11 +98,6 @@ component(slide){
     background-color: var(--red);
     color: var(--inverseColor);
   }
-
-  .logo{
-    width: 70%;
-  }
-
 
   footer {
     display: flex;
