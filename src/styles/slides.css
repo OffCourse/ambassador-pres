@@ -6,7 +6,6 @@ component(slides){
   height: 100%;
 }
 
-svg {
+.logo {
   width: 60%;
-  height: 60%;
 }

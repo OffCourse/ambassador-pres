@@ -59,6 +59,12 @@ component(slide){
     color: var(--inverseColor);
   }
 
+  ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
   li {
     font-family: NittyBold;
     margin: 0;
@@ -92,6 +98,10 @@ component(slide){
     color: var(--inverseColor);
   }
 
+  .logo{
+    width: 70%;
+  }
+
 
   footer {
     display: flex;
@@ -110,26 +120,4 @@ component(slide){
       }
     }
   }
-}
-
-.slide.creditsSlide h1 {
-  font-size: 1.5rem;
-  padding: 0.5rem;
-}
-
-.slide.titleSlide {
-  justify-content: center;
-}
-
-.titleSlide, .creditsSlide {
-  header {
-    display: flex;
-    flex: 1;
-  }
-}
-
-.logo {
-  width: 70%;
-  height: 70%;
-  padding-bottom: 3rem;
 }

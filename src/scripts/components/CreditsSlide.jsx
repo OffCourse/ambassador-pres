@@ -4,7 +4,6 @@ import Profile from './Profile.jsx';
 
 class CreditsSlide extends React.Component {
   render(){
-    console.log('hi');
     let { url, presenter } = this.props.slide;
     return (
       <section className='slide CreditsSlide'>
