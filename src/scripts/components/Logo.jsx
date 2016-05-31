@@ -1,7 +1,6 @@
 import React from 'react';
 
 class Logo extends React.Component {
-
   render(){
     return (
       <svg x="0px" y="0px" viewBox="0 0 424 244" enable-background="new 0 0 424 244">

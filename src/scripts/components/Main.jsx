@@ -1,5 +1,6 @@
 import React from 'react';
 import '../../styles/main.css';
+
 import Timeline from './Timeline.jsx';
 import Slides from './Slides.jsx';
 

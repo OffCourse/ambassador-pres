@@ -3,7 +3,6 @@ import '../../styles/slide.css';
 import Profile from './Profile.jsx';
 
 class MainTitleSlide extends React.Component {
-
   render(){
     let { title, presenter, event } = this.props.slide;
     let { organizer, date } = event;
