@@ -120,24 +120,32 @@ slides:
   content:
 
     + Open-source platform
-    -Community
-    -Personal portfolio
-    -Track progress and get suggestions
+
+    + Community
+
+    + Personal portfolio
+
+    + Track progress and get suggestions
 
 - type: normal
   content: 
 
     + Recruitment
-    -High-quality and detailed profiles
-    -Matching
+
+    + High-quality and detailed profiles
+
+    + Matching
 
 - type: normal
   content: 
 
     + Business integration
-    -Custom platform
-    -In-company learning
-    -Track and assess the progress of every team member
+    
+    + Custom platform
+    
+    + In-company learning
+    
+    + Track and assess the progress of every team member
 
 - title: Market
   type: section-title
